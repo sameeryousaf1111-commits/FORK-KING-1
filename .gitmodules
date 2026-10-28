@@ -1,0 +1,36 @@
+[submodule "ai-tools/sources/Scrapegraph-ai"]
+	path = ai-tools/sources/Scrapegraph-ai
+	url = https://github.com/sameeryousaf1111-commits/Scrapegraph-ai.git
+
+[submodule "ai-tools/sources/remotion"]
+	path = ai-tools/sources/remotion
+	url = https://github.com/sameeryousaf1111-commits/remotion.git
+
+[submodule "ai-tools/sources/ruflo"]
+	path = ai-tools/sources/ruflo
+	url = https://github.com/sameeryousaf1111-commits/ruflo.git
+
+[submodule "ai-tools/sources/OmniRoute"]
+	path = ai-tools/sources/OmniRoute
+	url = https://github.com/sameeryousaf1111-commits/OmniRoute.git
+
+[submodule "ai-tools/sources/ECC"]
+	path = ai-tools/sources/ECC
+	url = https://github.com/sameeryousaf1111-commits/ECC.git
+
+[submodule "ai-tools/sources/markitdown"]
+	path = ai-tools/sources/markitdown
+	url = https://github.com/sameeryousaf1111-commits/markitdown.git
+
+[submodule "ai-tools/sources/Scrapling"]
+	path = ai-tools/sources/Scrapling
+	url = https://github.com/sameeryousaf1111-commits/Scrapling.git
+
+[submodule "ai-tools/sources/humanizer"]
+	path = ai-tools/sources/humanizer
+	url = https://github.com/sameeryousaf1111-commits/humanizer.git
+
+[submodule "ai-tools/sources/banana-claude"]
+	path = ai-tools/sources/banana-claude
+	url = https://github.com/sameeryousaf1111-commits/banana-claude.git
+
