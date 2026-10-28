@@ -1,15 +1,12 @@
 # Fork queue
 
-## Verified source awaiting fork
+## Remaining fork
 
-- [Clay agent plugin](https://github.com/clay-run/agent-plugins) — [Create fork](https://github.com/clay-run/agent-plugins/fork). Confirmed by [Clay's official site](https://www.clay.com/agent-plugin). Latest fork submission was rejected as `was submitted too quickly`; automatic hourly retries are being resumed for this repository.
+- [Clay agent plugin](https://github.com/clay-run/agent-plugins) — [Create fork](https://github.com/clay-run/agent-plugins/fork). Verified through [Clay's official site](https://www.clay.com/agent-plugin). GitHub rejected the latest submission as `was submitted too quickly`; hourly retries are active for this repository only. The retry will pause after creation is verified and the collection is updated.
 
-## Awaiting source preference
+## Notes only
 
-No official public source repo has been verified for NotebookLM or Polsia. The user was asked whether community alternatives should be included; no substitution has been made.
-
-- NotebookLM: community client candidate [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py).
-- Polsia: community alternative candidate [AI-Builder-Club/open-polsia](https://github.com/AI-Builder-Club/open-polsia).
+The user requested notes only for NotebookLM and Polsia. No community replacement will be forked for either entry.
 
 ## Excluded
 

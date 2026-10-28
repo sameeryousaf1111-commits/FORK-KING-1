@@ -8,9 +8,9 @@
 
 ## Current work
 
-Clay's official agent plugin source has now been verified through Clay's website: [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins). Its fork is pending after GitHub rejected the submission as `was submitted too quickly`; hourly retries are being resumed.
+Clay's official agent plugin source has now been verified through Clay's website: [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins). Its fork is pending after GitHub rejected the submission as `was submitted too quickly`; hourly retries are active.
 
-NotebookLM and Polsia have no verified official public source repositories in this collection. Community replacements await the user's preference. Fact Checker has been excluded at the user's instruction.
+NotebookLM and Polsia are notes only, as requested; no community replacements will be forked. Fact Checker has been excluded at the user's instruction.
 
 ## Get the verified code
 

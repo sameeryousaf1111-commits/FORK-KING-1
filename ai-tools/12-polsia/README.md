@@ -1,7 +1,7 @@
 # Polsia
 
-Status: **Official source not verified**
+Status: **Notes only — no fork requested**
 
-No official public source repository verified for polsia.com. Similarly named repositories were not assumed to be official. A community alternative exists at https://github.com/AI-Builder-Club/open-polsia; awaiting the user's preference before substituting it.
+Service: https://polsia.com/
 
-No community replacement has been forked under this entry.
+The user requested notes only. No community connector or alternative will be forked for this entry. No official public source repository was verified during this review.
