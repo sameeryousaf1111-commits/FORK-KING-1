@@ -1,12 +1,16 @@
 # FORK KING 1
 
-Personal collection of AI tools, integrations, and skills from the 23-item checklist.
+Personal collection of AI tools, integrations, and skills from the original checklist and the additional session tools.
 
 Checked on October 28, 2026. **8 new forks created, 1 existing fork verified; 7 additional repository forks pending.** These 16 distinct repositories cover 18 checklist entries because ECC appears twice and two skills share one source repo. Five entries need a verified source repository.
 
 GitHub forks live as separate repositories in this account. This collection organizes them under `ai-tools/` and links the 9 verified forks as Git submodules in `ai-tools/sources/`. Forking does not install, connect, authenticate, or deploy a tool.
 
 [Open the complete checklist](ai-tools/README.md).
+
+## Additional session tools
+
+The 11 new names are tracked as entries 24–34. Their eight distinct source repositories are identified, including the shared Obsidian skills repository plus the Defuddle and Knap tools. **These new forks are pending:** GitHub continues to reject creation as `was submitted too quickly`. [See the batch status and source links](ai-tools/obsidian-session-tools.md).
 
 ## Get the verified source code
 
