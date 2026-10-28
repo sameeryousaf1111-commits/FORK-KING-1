@@ -1,11 +1,17 @@
 # Knap
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/kepano/obsidian-skills/tree/main/skills/knap
+Your fork: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/knap
 
-Additional tool source: https://github.com/obsidianmd/knap
+Upstream: https://github.com/kepano/obsidian-skills
+
+Pinned commit: `3ccff5338ea700537839b21900aa5358a0402c98`
+
+Standalone tool fork: https://github.com/sameeryousaf1111-commits/knap
+
+Pinned commit: `0160089887642f27579de868ee75eb43fdf40cc8`
 
 This skill shares the kepano/obsidian-skills repository.
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Forking does not install or connect this tool.

@@ -1,9 +1,13 @@
 # Task Observer
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/rebelytics/one-skill-to-rule-them-all
+Your fork: https://github.com/sameeryousaf1111-commits/one-skill-to-rule-them-all
 
-Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.
+Upstream: https://github.com/rebelytics/one-skill-to-rule-them-all
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Pinned commit: `ba696b2c2673be959dcd4a1dbdbc92085df8b41a`
+
+Fork created and verified against the expected upstream repository.
+
+Forking does not install or connect this tool.

@@ -1,9 +1,13 @@
 # Claude Mem
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/thedotmack/claude-mem
+Your fork: https://github.com/sameeryousaf1111-commits/claude-mem
 
-Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.
+Upstream: https://github.com/thedotmack/claude-mem
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Pinned commit: `a510735ca80ec75bdfe4e13e1f13e1f6f0fe9a19`
+
+Fork created and verified against the expected upstream repository.
+
+Forking does not install or connect this tool.

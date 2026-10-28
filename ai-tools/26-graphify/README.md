@@ -1,9 +1,13 @@
 # Graphify
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/Graphify-Labs/graphify
+Your fork: https://github.com/sameeryousaf1111-commits/graphify
 
-Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.
+Upstream: https://github.com/Graphify-Labs/graphify
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Pinned commit: `0a8cd4e1e342235fe53e881fb5d591bf0460071f`
+
+Fork created and verified against the expected upstream repository.
+
+Forking does not install or connect this tool.

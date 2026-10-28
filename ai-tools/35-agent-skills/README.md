@@ -1,9 +1,13 @@
 # Agent Skills
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Verified source: https://github.com/addyosmani/agent-skills
+Your fork: https://github.com/sameeryousaf1111-commits/agent-skills
+
+Upstream: https://github.com/addyosmani/agent-skills
+
+Pinned commit: `aeac41d4d005999432bb7312f7ff06383a91d59d`
 
 Matched to the installed Addy Osmani Agent Skills marketplace.
 
-GitHub rejected recent fork submissions with 'was submitted too quickly'. This is a queued source repository, not a completed fork. Forking does not install or connect the tool.
+Forking does not install or connect this tool.

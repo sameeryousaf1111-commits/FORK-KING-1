@@ -1,9 +1,13 @@
 # Ponytail
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Verified source: https://github.com/DietrichGebert/ponytail
+Your fork: https://github.com/sameeryousaf1111-commits/ponytail
+
+Upstream: https://github.com/DietrichGebert/ponytail
+
+Pinned commit: `09c434ab73ca43761c5d8b0c5d341926c2fba710`
 
 Matched to the installed Ponytail marketplace.
 
-GitHub rejected recent fork submissions with 'was submitted too quickly'. This is a queued source repository, not a completed fork. Forking does not install or connect the tool.
+Forking does not install or connect this tool.

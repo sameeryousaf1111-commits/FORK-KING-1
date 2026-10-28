@@ -1,9 +1,13 @@
 # JSON Canvas
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/kepano/obsidian-skills/tree/main/skills/json-canvas
+Your fork: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/json-canvas
+
+Upstream: https://github.com/kepano/obsidian-skills
+
+Pinned commit: `3ccff5338ea700537839b21900aa5358a0402c98`
 
 This skill shares the kepano/obsidian-skills repository.
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Forking does not install or connect this tool.

@@ -1,9 +1,13 @@
 # Headroom
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/headroomlabs-ai/headroom
+Your fork: https://github.com/sameeryousaf1111-commits/headroom
 
-Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.
+Upstream: https://github.com/headroomlabs-ai/headroom
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Pinned commit: `8d5dde77656c9bb3daa354a14ffa6904cb8311aa`
+
+Fork created and verified against the expected upstream repository.
+
+Forking does not install or connect this tool.

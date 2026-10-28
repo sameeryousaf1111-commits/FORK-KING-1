@@ -1,6 +1,6 @@
 # AI tools checklist
 
-38 entries tracked. Pending rows identify sources; they do not claim completed forks. [Open the remaining fork queue](fork-queue.md).
+38 entries tracked; **19 verified fork repositories** linked in sources/. **10 repositories remain pending**, and four entries need verified source repositories. [Remaining queue](fork-queue.md).
 
 | # | Tool | Status | Your fork / source |
 |---|---|---|---|
@@ -27,18 +27,18 @@
 | 21 | [Design Auditor / Impeccable](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/21-design-auditor) | pending github fork | [Source](https://github.com/pbakaus/impeccable) |
 | 22 | [Frontend Design](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/22-frontend-design) | pending github fork | [Source](https://github.com/anthropics/skills) |
 | 23 | [Awesome DESIGN.md](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/23-awesome-design-md) | pending github fork | [Source](https://github.com/VoltAgent/awesome-design-md) |
-| 24 | [veman / Caveman](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/24-caveman) | pending github fork | [Source](https://github.com/JuliusBrussee/caveman) |
-| 25 | [Task Observer](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/25-task-observer) | pending github fork | [Source](https://github.com/rebelytics/one-skill-to-rule-them-all) |
-| 26 | [Graphify](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/26-graphify) | pending github fork | [Source](https://github.com/Graphify-Labs/graphify) |
-| 27 | [Obsidian Markdown](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/27-obsidian-markdown) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 28 | [Obsidian Bases](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/28-obsidian-bases) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 29 | [JSON Canvas](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/29-json-canvas) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 30 | [Obsidian CLI](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/30-obsidian-cli) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 31 | [Defuddle](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/31-defuddle) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 32 | [Knap](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/32-knap) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
-| 33 | [Claude Mem](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/33-claude-mem) | pending github fork | [Source](https://github.com/thedotmack/claude-mem) |
-| 34 | [Headroom](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/34-headroom) | pending github fork | [Source](https://github.com/headroomlabs-ai/headroom) |
-| 35 | [Agent Skills](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/35-agent-skills) | pending github fork | [Source](https://github.com/addyosmani/agent-skills) |
-| 36 | [Ponytail](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/36-ponytail) | pending github fork | [Source](https://github.com/DietrichGebert/ponytail) |
+| 24 | [veman / Caveman](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/24-caveman) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/caveman) |
+| 25 | [Task Observer](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/25-task-observer) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/one-skill-to-rule-them-all) |
+| 26 | [Graphify](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/26-graphify) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/graphify) |
+| 27 | [Obsidian Markdown](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/27-obsidian-markdown) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 28 | [Obsidian Bases](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/28-obsidian-bases) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 29 | [JSON Canvas](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/29-json-canvas) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 30 | [Obsidian CLI](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/30-obsidian-cli) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 31 | [Defuddle](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/31-defuddle) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 32 | [Knap](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/32-knap) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/obsidian-skills) |
+| 33 | [Claude Mem](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/33-claude-mem) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/claude-mem) |
+| 34 | [Headroom](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/34-headroom) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/headroom) |
+| 35 | [Agent Skills](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/35-agent-skills) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/agent-skills) |
+| 36 | [Ponytail](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/36-ponytail) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/ponytail) |
 | 37 | [Agent Reach](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/37-agent-reach) | pending github fork | [Source](https://github.com/Panniantong/Agent-Reach) |
 | 38 | [NVIDIA SkillSpector](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/38-skillspector) | pending github fork | [Source](https://github.com/NVIDIA/SkillSpector) |

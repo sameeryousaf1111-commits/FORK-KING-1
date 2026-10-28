@@ -283,105 +283,128 @@
       "slug": "caveman",
       "name": "veman / Caveman",
       "source": "https://github.com/JuliusBrussee/caveman",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/caveman",
       "desired_fork_name": "caveman",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "User label 'veman' matched to the locally installed Caveman skill.",
-      "commit": null,
-      "additional_sources": []
+      "commit": "9b68f7ed12b05e7efaff18e65c5a3fc2849fd0a4",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 25,
       "slug": "task-observer",
       "name": "Task Observer",
       "source": "https://github.com/rebelytics/one-skill-to-rule-them-all",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/one-skill-to-rule-them-all",
       "desired_fork_name": "one-skill-to-rule-them-all",
       "source_subpath": null,
-      "status": "pending_github_fork",
-      "notes": "Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.",
-      "commit": null,
-      "additional_sources": []
+      "status": "fork_created_verified",
+      "notes": "Fork created and verified against the expected upstream repository.",
+      "commit": "ba696b2c2673be959dcd4a1dbdbc92085df8b41a",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 26,
       "slug": "graphify",
       "name": "Graphify",
       "source": "https://github.com/Graphify-Labs/graphify",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/graphify",
       "desired_fork_name": "graphify",
       "source_subpath": null,
-      "status": "pending_github_fork",
-      "notes": "Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.",
-      "commit": null,
-      "additional_sources": []
+      "status": "fork_created_verified",
+      "notes": "Fork created and verified against the expected upstream repository.",
+      "commit": "0a8cd4e1e342235fe53e881fb5d591bf0460071f",
+      "additional_sources": [],
+      "fork_default_branch": "v8",
+      "additional_forks": []
     },
     {
       "number": 27,
       "slug": "obsidian-markdown",
       "name": "Obsidian Markdown",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/obsidian-markdown",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
-      "additional_sources": []
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 28,
       "slug": "obsidian-bases",
       "name": "Obsidian Bases",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/obsidian-bases",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
-      "additional_sources": []
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 29,
       "slug": "json-canvas",
       "name": "JSON Canvas",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/json-canvas",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
-      "additional_sources": []
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 30,
       "slug": "obsidian-cli",
       "name": "Obsidian CLI",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/obsidian-cli",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
-      "additional_sources": []
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 31,
       "slug": "defuddle",
       "name": "Defuddle",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/defuddle",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
       "additional_sources": [
         "https://github.com/kepano/defuddle"
+      ],
+      "fork_default_branch": "main",
+      "additional_forks": [
+        {
+          "source": "https://github.com/kepano/defuddle",
+          "fork": "https://github.com/sameeryousaf1111-commits/defuddle",
+          "commit": "3e8bde9f5f855bc968e95837a750c5968a9fe639",
+          "default_branch": "main"
+        }
       ]
     },
     {
@@ -389,14 +412,23 @@
       "slug": "knap",
       "name": "Knap",
       "source": "https://github.com/kepano/obsidian-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/obsidian-skills",
       "desired_fork_name": "obsidian-skills",
       "source_subpath": "skills/knap",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "This skill shares the kepano/obsidian-skills repository.",
-      "commit": null,
+      "commit": "3ccff5338ea700537839b21900aa5358a0402c98",
       "additional_sources": [
         "https://github.com/obsidianmd/knap"
+      ],
+      "fork_default_branch": "main",
+      "additional_forks": [
+        {
+          "source": "https://github.com/obsidianmd/knap",
+          "fork": "https://github.com/sameeryousaf1111-commits/knap",
+          "commit": "0160089887642f27579de868ee75eb43fdf40cc8",
+          "default_branch": "main"
+        }
       ]
     },
     {
@@ -404,50 +436,56 @@
       "slug": "claude-mem",
       "name": "Claude Mem",
       "source": "https://github.com/thedotmack/claude-mem",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/claude-mem",
       "desired_fork_name": "claude-mem",
       "source_subpath": null,
-      "status": "pending_github_fork",
-      "notes": "Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.",
-      "commit": null,
-      "additional_sources": []
+      "status": "fork_created_verified",
+      "notes": "Fork created and verified against the expected upstream repository.",
+      "commit": "a510735ca80ec75bdfe4e13e1f13e1f6f0fe9a19",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 34,
       "slug": "headroom",
       "name": "Headroom",
       "source": "https://github.com/headroomlabs-ai/headroom",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/headroom",
       "desired_fork_name": "headroom",
       "source_subpath": null,
-      "status": "pending_github_fork",
-      "notes": "Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.",
-      "commit": null,
-      "additional_sources": []
+      "status": "fork_created_verified",
+      "notes": "Fork created and verified against the expected upstream repository.",
+      "commit": "8d5dde77656c9bb3daa354a14ffa6904cb8311aa",
+      "additional_sources": [],
+      "fork_default_branch": "main",
+      "additional_forks": []
     },
     {
       "number": 35,
       "slug": "agent-skills",
       "name": "Agent Skills",
       "source": "https://github.com/addyosmani/agent-skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/agent-skills",
       "desired_fork_name": "agent-skills",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Matched to the installed Addy Osmani Agent Skills marketplace.",
-      "commit": null
+      "commit": "aeac41d4d005999432bb7312f7ff06383a91d59d",
+      "fork_default_branch": "main"
     },
     {
       "number": 36,
       "slug": "ponytail",
       "name": "Ponytail",
       "source": "https://github.com/DietrichGebert/ponytail",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/ponytail",
       "desired_fork_name": "ponytail",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Matched to the installed Ponytail marketplace.",
-      "commit": null
+      "commit": "09c434ab73ca43761c5d8b0c5d341926c2fba710",
+      "fork_default_branch": "main"
     },
     {
       "number": 37,
@@ -473,5 +511,7 @@
       "notes": "Mentioned in the earlier Claude Code Tools chat; official source repository verified.",
       "commit": null
     }
-  ]
+  ],
+  "verified_fork_repositories": 19,
+  "pending_fork_repositories": 10
 }

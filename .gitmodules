@@ -34,3 +34,43 @@
 	path = ai-tools/sources/banana-claude
 	url = https://github.com/sameeryousaf1111-commits/banana-claude.git
 
+[submodule "ai-tools/sources/ponytail"]
+	path = ai-tools/sources/ponytail
+	url = https://github.com/sameeryousaf1111-commits/ponytail.git
+
+[submodule "ai-tools/sources/agent-skills"]
+	path = ai-tools/sources/agent-skills
+	url = https://github.com/sameeryousaf1111-commits/agent-skills.git
+
+[submodule "ai-tools/sources/caveman"]
+	path = ai-tools/sources/caveman
+	url = https://github.com/sameeryousaf1111-commits/caveman.git
+
+[submodule "ai-tools/sources/one-skill-to-rule-them-all"]
+	path = ai-tools/sources/one-skill-to-rule-them-all
+	url = https://github.com/sameeryousaf1111-commits/one-skill-to-rule-them-all.git
+
+[submodule "ai-tools/sources/graphify"]
+	path = ai-tools/sources/graphify
+	url = https://github.com/sameeryousaf1111-commits/graphify.git
+
+[submodule "ai-tools/sources/obsidian-skills"]
+	path = ai-tools/sources/obsidian-skills
+	url = https://github.com/sameeryousaf1111-commits/obsidian-skills.git
+
+[submodule "ai-tools/sources/defuddle"]
+	path = ai-tools/sources/defuddle
+	url = https://github.com/sameeryousaf1111-commits/defuddle.git
+
+[submodule "ai-tools/sources/knap"]
+	path = ai-tools/sources/knap
+	url = https://github.com/sameeryousaf1111-commits/knap.git
+
+[submodule "ai-tools/sources/claude-mem"]
+	path = ai-tools/sources/claude-mem
+	url = https://github.com/sameeryousaf1111-commits/claude-mem.git
+
+[submodule "ai-tools/sources/headroom"]
+	path = ai-tools/sources/headroom
+	url = https://github.com/sameeryousaf1111-commits/headroom.git
+

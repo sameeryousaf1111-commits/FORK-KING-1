@@ -1,9 +1,13 @@
 # veman / Caveman
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/JuliusBrussee/caveman
+Your fork: https://github.com/sameeryousaf1111-commits/caveman
+
+Upstream: https://github.com/JuliusBrussee/caveman
+
+Pinned commit: `9b68f7ed12b05e7efaff18e65c5a3fc2849fd0a4`
 
 User label 'veman' matched to the locally installed Caveman skill.
 
-GitHub rejected fork submissions as 'was submitted too quickly'. No completed fork is claimed here. This entry records source code only, not installation or connection status.
+Forking does not install or connect this tool.

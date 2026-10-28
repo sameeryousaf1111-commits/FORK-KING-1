@@ -1,28 +1,17 @@
-# Requested session tools
+# Session tools — forks complete
 
-All 11 requested names were mapped to source repositories. **No new forks were created for this batch.** GitHub rejected Caveman and Task Observer fork submissions with `was submitted too quickly`, even after a wait. The existing Git credential manager also reported access denied, so no alternative command-line authentication was available.
+All 11 requested session-tool names now have verified forks. The six Obsidian-related skills share one repository. Defuddle and Knap also have their standalone tool repos forked.
 
-- **veman / Caveman**: https://github.com/JuliusBrussee/caveman
-- **Task Observer**: https://github.com/rebelytics/one-skill-to-rule-them-all
-- **Graphify**: https://github.com/Graphify-Labs/graphify
-- **Obsidian Markdown**: https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown
-- **Obsidian Bases**: https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-bases
-- **JSON Canvas**: https://github.com/kepano/obsidian-skills/tree/main/skills/json-canvas
-- **Obsidian CLI**: https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-cli
-- **Defuddle**: https://github.com/kepano/obsidian-skills/tree/main/skills/defuddle; tool source: https://github.com/kepano/defuddle
-- **Knap**: https://github.com/kepano/obsidian-skills/tree/main/skills/knap; tool source: https://github.com/obsidianmd/knap
-- **Claude Mem**: https://github.com/thedotmack/claude-mem
-- **Headroom**: https://github.com/headroomlabs-ai/headroom
+- **veman / Caveman**: https://github.com/sameeryousaf1111-commits/caveman
+- **Task Observer**: https://github.com/sameeryousaf1111-commits/one-skill-to-rule-them-all
+- **Graphify**: https://github.com/sameeryousaf1111-commits/graphify
+- **Obsidian Markdown**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/obsidian-markdown
+- **Obsidian Bases**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/obsidian-bases
+- **JSON Canvas**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/json-canvas
+- **Obsidian CLI**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/obsidian-cli
+- **Defuddle**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/defuddle; standalone tool: https://github.com/sameeryousaf1111-commits/defuddle
+- **Knap**: https://github.com/sameeryousaf1111-commits/obsidian-skills/tree/main/skills/knap; standalone tool: https://github.com/sameeryousaf1111-commits/knap
+- **Claude Mem**: https://github.com/sameeryousaf1111-commits/claude-mem
+- **Headroom**: https://github.com/sameeryousaf1111-commits/headroom
 
-## Distinct forks still needed
-
-- https://github.com/JuliusBrussee/caveman/fork
-- https://github.com/rebelytics/one-skill-to-rule-them-all/fork
-- https://github.com/Graphify-Labs/graphify/fork
-- https://github.com/kepano/obsidian-skills/fork
-- https://github.com/kepano/defuddle/fork
-- https://github.com/obsidianmd/knap/fork
-- https://github.com/thedotmack/claude-mem/fork
-- https://github.com/headroomlabs-ai/headroom/fork
-
-Fork creation does not install skills, connect an MCP server, or fix any reported runtime issue.
+Forking copies source code. It does not install tools, connect accounts or MCP servers, or repair runtime problems.
