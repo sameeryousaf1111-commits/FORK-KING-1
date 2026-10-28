@@ -114,3 +114,7 @@
 	path = ai-tools/sources/vercel
 	url = https://github.com/sameeryousaf1111-commits/vercel.git
 
+[submodule "ai-tools/sources/agent-plugins"]
+	path = ai-tools/sources/agent-plugins
+	url = https://github.com/sameeryousaf1111-commits/agent-plugins.git
+

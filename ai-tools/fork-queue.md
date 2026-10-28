@@ -1,15 +1,9 @@
-# Fork queue
+# Fork queue — complete
 
-## Remaining fork
+All 30 requested, identified source repositories have verified forks under sameeryousaf1111-commits. Clay's official plugin is complete: https://github.com/sameeryousaf1111-commits/agent-plugins (upstream clay-run/agent-plugins).
 
-- [Clay agent plugin](https://github.com/clay-run/agent-plugins) — [Create fork](https://github.com/clay-run/agent-plugins/fork). Verified through [Clay's official site](https://www.clay.com/agent-plugin). GitHub rejected the latest submission as `was submitted too quickly`; hourly retries are active for this repository only. The retry will pause after creation is verified and the collection is updated.
+No repository remains pending. Automatic retries have been paused.
 
-## Notes only
+NotebookLM and Polsia remain notes only, as requested. Fact Checker is excluded.
 
-The user requested notes only for NotebookLM and Polsia. No community replacement will be forked for either entry.
-
-## Excluded
-
-Fact Checker: excluded at the user's instruction.
-
-The 29 previously verified forks remain intact and linked through source submodules.
+[Browse verified forks](forks.md).

@@ -6,14 +6,15 @@
       "slug": "clay",
       "name": "Clay",
       "source": "https://github.com/clay-run/agent-plugins",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/agent-plugins",
       "desired_fork_name": "agent-plugins",
       "source_subpath": null,
-      "status": "pending_github_fork",
-      "notes": "Official Clay agent plugin repository, linked from Clay's own website. Contains agent skills and CLI integration; this is not the hosted Clay platform source. Fork request was rejected by GitHub as 'was submitted too quickly'.",
-      "commit": null,
+      "status": "fork_created_verified",
+      "notes": "Official Clay agent plugin repository, verified through Clay's own website. Fork created and verified against clay-run/agent-plugins. Provides agent skills and CLI integration; this is not the hosted Clay platform source.",
+      "commit": "b9952b68b24f592bfc3b50b3b6e4ec4e7949467d",
       "service_url": "https://www.clay.com/",
-      "source_verification": "https://www.clay.com/agent-plugin"
+      "source_verification": "https://www.clay.com/agent-plugin",
+      "fork_default_branch": "main"
     },
     {
       "number": 2,
@@ -525,8 +526,8 @@
       "fork_default_branch": "main"
     }
   ],
-  "verified_fork_repositories": 29,
-  "pending_fork_repositories": 1,
+  "verified_fork_repositories": 30,
+  "pending_fork_repositories": 0,
   "excluded_entries": 1,
   "notes_only_entries": 2
 }

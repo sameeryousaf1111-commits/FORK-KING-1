@@ -1,21 +1,21 @@
 # AI tools checklist
 
-**29 verified forks; official Clay plugin fork pending with hourly retries active.** NotebookLM and Polsia are notes only. Fact Checker was excluded by the user. [Verified forks](forks.md) · [Fork queue](fork-queue.md).
+**All requested, identified forks are complete: 30 verified repositories**, including Clay. NotebookLM and Polsia are notes only; Fact Checker is excluded. Automatic retries are paused. [Browse all forks](forks.md).
 
 | # | Tool | Status | Your fork / source |
 |---|---|---|---|
-| 1 | [Clay](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/01-clay) | Fork pending | [Source / service](https://github.com/clay-run/agent-plugins) |
+| 1 | [Clay](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/01-clay) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/agent-plugins) |
 | 2 | [ScrapeGraph](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/02-scrapegraph) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/Scrapegraph-ai) |
 | 3 | [Remotion](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/03-remotion) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/remotion) |
 | 4 | [Vercel](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/04-vercel) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/vercel) |
 | 5 | [Blender MCP](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/05-blender) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/mcp-for-blender) |
-| 6 | [NotebookLM](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/06-notebooklm) | Notes only | [Source / service](https://notebooklm.google.com/) |
+| 6 | [NotebookLM](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/06-notebooklm) | Notes only | [Service](https://notebooklm.google.com/) |
 | 7 | [Ruflo](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/07-ruflo) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/ruflo) |
 | 8 | [OmniRoute](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/08-omniroute) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/OmniRoute) |
 | 9 | [ECC](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/09-ecc) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/ECC) |
 | 10 | [MarkItDown](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/10-markitdown) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/markitdown) |
 | 11 | [Scrapling](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/11-scrapling) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/Scrapling) |
-| 12 | [Polsia](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/12-polsia) | Notes only | [Source / service](https://polsia.com/) |
+| 12 | [Polsia](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/12-polsia) | Notes only | [Service](https://polsia.com/) |
 | 13 | [MotionSite / MotionSites](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/13-motionsite) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/claude-skill) |
 | 14 | [ECC hackathon](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/14-ecc-hackathon) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/ECC) |
 | 15 | [Humanizer](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/15-humanizer) | Fork verified | [Your fork](https://github.com/sameeryousaf1111-commits/humanizer) |

@@ -1,9 +1,10 @@
 # Verified forks
 
-29 repositories verified as GitHub forks against their expected upstream parents. Their source commits are pinned in the submodules under sources/.
+30 repositories verified as GitHub forks against the expected upstream parents. Their commits are pinned as source submodules.
 
 | Your fork | Upstream | Pinned commit |
 |---|---|---|
+| [agent-plugins](https://github.com/sameeryousaf1111-commits/agent-plugins) | [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins) | [b9952b6](https://github.com/sameeryousaf1111-commits/agent-plugins/commit/b9952b68b24f592bfc3b50b3b6e4ec4e7949467d) |
 | [Agent-Reach](https://github.com/sameeryousaf1111-commits/Agent-Reach) | [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) | [14c2134](https://github.com/sameeryousaf1111-commits/Agent-Reach/commit/14c213405669414492bda0f8d52cc6531d062c45) |
 | [agent-skills](https://github.com/sameeryousaf1111-commits/agent-skills) | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | [aeac41d](https://github.com/sameeryousaf1111-commits/agent-skills/commit/aeac41d4d005999432bb7312f7ff06383a91d59d) |
 | [awesome-design-md](https://github.com/sameeryousaf1111-commits/awesome-design-md) | [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) | [fcc7028](https://github.com/sameeryousaf1111-commits/awesome-design-md/commit/fcc70284932276d085f01ef9f83edde90b1258cb) |

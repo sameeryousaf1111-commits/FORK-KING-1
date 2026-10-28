@@ -1,16 +1,12 @@
 # FORK KING 1
 
-**29 verified GitHub forks**, organized under ai-tools/ and pinned through source submodules.
+**All 30 requested, identified repositories are forked and verified**, including Clay's official agent plugin. They are organized under ai-tools/ and linked as pinned Git submodules under ai-tools/sources/.
 
-- [Browse verified forks](ai-tools/forks.md)
+- [Browse all 30 forks](ai-tools/forks.md)
 - [Complete checklist](ai-tools/README.md)
-- [Current fork queue](ai-tools/fork-queue.md)
+- [Completed session tools](ai-tools/obsidian-session-tools.md)
 
-## Current work
-
-Clay's official agent plugin source has now been verified through Clay's website: [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins). Its fork is pending after GitHub rejected the submission as `was submitted too quickly`; hourly retries are active.
-
-NotebookLM and Polsia are notes only, as requested; no community replacements will be forked. Fact Checker has been excluded at the user's instruction.
+The fork queue is complete and automatic retries are paused. NotebookLM and Polsia are notes only, as requested. Fact Checker is excluded.
 
 ## Get the verified code
 
@@ -18,4 +14,6 @@ NotebookLM and Polsia are notes only, as requested; no community replacements wi
 git clone --recurse-submodules https://github.com/sameeryousaf1111-commits/FORK-KING-1.git
 ```
 
-The numbered folders track source and status; verified fork code is linked under ai-tools/sources/. Upstream licenses remain in each fork. Forking does not install, authenticate, connect, deploy, or repair a tool.
+GitHub stores each fork as a separate repository in this account. Numbered folders track status and source information; code is linked through source submodules. Upstream licenses remain in each fork.
+
+Forking copies source code. It does not install, authenticate, connect, deploy, or repair a tool.
