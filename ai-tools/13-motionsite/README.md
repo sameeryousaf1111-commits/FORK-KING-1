@@ -1,9 +1,9 @@
-# 13. MotionSite / MotionSites
+# MotionSite / MotionSites
 
-Status: **needs verified source**
+Status: **Pending GitHub fork**
 
-Source: https://motionsites.ai/
+Verified source: https://github.com/Motionsites-AI/claude-skill
 
-Animated website prompts and service. No verified official source repository selected.
+Official MotionSites Claude skill source verified against the installed MotionSites marketplace. This is the skill repository; the hosted prompt library is separate.
 
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+GitHub rejected recent fork submissions with 'was submitted too quickly'. This is a queued source repository, not a completed fork. Forking does not install or connect the tool.

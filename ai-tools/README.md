@@ -1,6 +1,6 @@
 # AI tools checklist
 
-34 entries tracked. A pending row is a verified source link, not a completed fork.
+38 entries tracked. Pending rows identify sources; they do not claim completed forks. [Open the remaining fork queue](fork-queue.md).
 
 | # | Tool | Status | Your fork / source |
 |---|---|---|---|
@@ -16,7 +16,7 @@
 | 10 | [MarkItDown](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/10-markitdown) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/markitdown) |
 | 11 | [Scrapling](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/11-scrapling) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/Scrapling) |
 | 12 | [Polsia](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/12-polsia) | needs verified source | [Source](https://polsia.com/) |
-| 13 | [MotionSite / MotionSites](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/13-motionsite) | needs verified source | [Source](https://motionsites.ai/) |
+| 13 | [MotionSite / MotionSites](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/13-motionsite) | pending github fork | [Source](https://github.com/Motionsites-AI/claude-skill) |
 | 14 | [ECC hackathon](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/14-ecc-hackathon) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/ECC) |
 | 15 | [Humanizer](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/15-humanizer) | fork created verified | [Your fork](https://github.com/sameeryousaf1111-commits/humanizer) |
 | 16 | [Fact checker](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/16-fact-checker) | needs verified source | Source link needed |
@@ -38,5 +38,7 @@
 | 32 | [Knap](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/32-knap) | pending github fork | [Source](https://github.com/kepano/obsidian-skills) |
 | 33 | [Claude Mem](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/33-claude-mem) | pending github fork | [Source](https://github.com/thedotmack/claude-mem) |
 | 34 | [Headroom](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/34-headroom) | pending github fork | [Source](https://github.com/headroomlabs-ai/headroom) |
-
-The six Obsidian-related skills share one repository. Defuddle and Knap also have separate tool repositories listed in their folders.
+| 35 | [Agent Skills](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/35-agent-skills) | pending github fork | [Source](https://github.com/addyosmani/agent-skills) |
+| 36 | [Ponytail](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/36-ponytail) | pending github fork | [Source](https://github.com/DietrichGebert/ponytail) |
+| 37 | [Agent Reach](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/37-agent-reach) | pending github fork | [Source](https://github.com/Panniantong/Agent-Reach) |
+| 38 | [NVIDIA SkillSpector](https://github.com/sameeryousaf1111-commits/FORK-KING-1/tree/main/ai-tools/38-skillspector) | pending github fork | [Source](https://github.com/NVIDIA/SkillSpector) |

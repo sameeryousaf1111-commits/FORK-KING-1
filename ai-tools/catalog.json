@@ -149,13 +149,14 @@
       "number": 13,
       "slug": "motionsite",
       "name": "MotionSite / MotionSites",
-      "source": "https://motionsites.ai/",
+      "source": "https://github.com/Motionsites-AI/claude-skill",
       "fork": null,
-      "desired_fork_name": null,
+      "desired_fork_name": "claude-skill",
       "source_subpath": null,
-      "status": "needs_verified_source",
-      "notes": "Animated website prompts and service. No verified official source repository selected.",
-      "commit": null
+      "status": "pending_github_fork",
+      "notes": "Official MotionSites Claude skill source verified against the installed MotionSites marketplace. This is the skill repository; the hosted prompt library is separate.",
+      "commit": null,
+      "service_url": "https://motionsites.ai/"
     },
     {
       "number": 14,
@@ -423,6 +424,54 @@
       "notes": "Source identified; fork creation is blocked by GitHub's 'was submitted too quickly' response.",
       "commit": null,
       "additional_sources": []
+    },
+    {
+      "number": 35,
+      "slug": "agent-skills",
+      "name": "Agent Skills",
+      "source": "https://github.com/addyosmani/agent-skills",
+      "fork": null,
+      "desired_fork_name": "agent-skills",
+      "source_subpath": null,
+      "status": "pending_github_fork",
+      "notes": "Matched to the installed Addy Osmani Agent Skills marketplace.",
+      "commit": null
+    },
+    {
+      "number": 36,
+      "slug": "ponytail",
+      "name": "Ponytail",
+      "source": "https://github.com/DietrichGebert/ponytail",
+      "fork": null,
+      "desired_fork_name": "ponytail",
+      "source_subpath": null,
+      "status": "pending_github_fork",
+      "notes": "Matched to the installed Ponytail marketplace.",
+      "commit": null
+    },
+    {
+      "number": 37,
+      "slug": "agent-reach",
+      "name": "Agent Reach",
+      "source": "https://github.com/Panniantong/Agent-Reach",
+      "fork": null,
+      "desired_fork_name": "Agent-Reach",
+      "source_subpath": null,
+      "status": "pending_github_fork",
+      "notes": "Mentioned in the earlier Agent Reach installation chat; source verified against installed package metadata.",
+      "commit": null
+    },
+    {
+      "number": 38,
+      "slug": "skillspector",
+      "name": "NVIDIA SkillSpector",
+      "source": "https://github.com/NVIDIA/SkillSpector",
+      "fork": null,
+      "desired_fork_name": "SkillSpector",
+      "source_subpath": null,
+      "status": "pending_github_fork",
+      "notes": "Mentioned in the earlier Claude Code Tools chat; official source repository verified.",
+      "commit": null
     }
   ]
 }
