@@ -74,3 +74,43 @@
 	path = ai-tools/sources/headroom
 	url = https://github.com/sameeryousaf1111-commits/headroom.git
 
+[submodule "ai-tools/sources/Agent-Reach"]
+	path = ai-tools/sources/Agent-Reach
+	url = https://github.com/sameeryousaf1111-commits/Agent-Reach.git
+
+[submodule "ai-tools/sources/SkillSpector"]
+	path = ai-tools/sources/SkillSpector
+	url = https://github.com/sameeryousaf1111-commits/SkillSpector.git
+
+[submodule "ai-tools/sources/claude-skill"]
+	path = ai-tools/sources/claude-skill
+	url = https://github.com/sameeryousaf1111-commits/claude-skill.git
+
+[submodule "ai-tools/sources/superpowers"]
+	path = ai-tools/sources/superpowers
+	url = https://github.com/sameeryousaf1111-commits/superpowers.git
+
+[submodule "ai-tools/sources/context7"]
+	path = ai-tools/sources/context7
+	url = https://github.com/sameeryousaf1111-commits/context7.git
+
+[submodule "ai-tools/sources/impeccable"]
+	path = ai-tools/sources/impeccable
+	url = https://github.com/sameeryousaf1111-commits/impeccable.git
+
+[submodule "ai-tools/sources/skills"]
+	path = ai-tools/sources/skills
+	url = https://github.com/sameeryousaf1111-commits/skills.git
+
+[submodule "ai-tools/sources/awesome-design-md"]
+	path = ai-tools/sources/awesome-design-md
+	url = https://github.com/sameeryousaf1111-commits/awesome-design-md.git
+
+[submodule "ai-tools/sources/mcp-for-blender"]
+	path = ai-tools/sources/mcp-for-blender
+	url = https://github.com/sameeryousaf1111-commits/mcp-for-blender.git
+
+[submodule "ai-tools/sources/vercel"]
+	path = ai-tools/sources/vercel
+	url = https://github.com/sameeryousaf1111-commits/vercel.git
+

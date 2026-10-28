@@ -42,24 +42,26 @@
       "slug": "vercel",
       "name": "Vercel",
       "source": "https://github.com/vercel/vercel",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/vercel",
       "desired_fork_name": "vercel",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Vercel CLI and development tooling; the hosted Vercel platform and account are separate.",
-      "commit": null
+      "commit": "84878e532142f0ac584953695658b324eb9e5b80",
+      "fork_default_branch": "main"
     },
     {
       "number": 5,
       "slug": "blender",
       "name": "Blender MCP",
       "source": "https://github.com/ahujasid/mcp-for-blender",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/mcp-for-blender",
       "desired_fork_name": "mcp-for-blender",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Community integration for controlling Blender. This is not the Blender application source and is not affiliated with the Blender Foundation.",
-      "commit": null
+      "commit": "8782963ba87a4c90482198bd7c7e17219ac3a0f7",
+      "fork_default_branch": "main"
     },
     {
       "number": 6,
@@ -150,13 +152,14 @@
       "slug": "motionsite",
       "name": "MotionSite / MotionSites",
       "source": "https://github.com/Motionsites-AI/claude-skill",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/claude-skill",
       "desired_fork_name": "claude-skill",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Official MotionSites Claude skill source verified against the installed MotionSites marketplace. This is the skill repository; the hosted prompt library is separate.",
-      "commit": null,
-      "service_url": "https://motionsites.ai/"
+      "commit": "faa30d512e3973e58675c72101a7ef42ed37ae83",
+      "service_url": "https://motionsites.ai/",
+      "fork_default_branch": "main"
     },
     {
       "number": 14,
@@ -211,72 +214,78 @@
       "slug": "superpowers",
       "name": "Superpowers",
       "source": "https://github.com/obra/superpowers",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/superpowers",
       "desired_fork_name": "superpowers",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Coding-agent workflow and discipline.",
-      "commit": null
+      "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+      "fork_default_branch": "main"
     },
     {
       "number": 19,
       "slug": "context7",
       "name": "Context7",
       "source": "https://github.com/upstash/context7",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/context7",
       "desired_fork_name": "context7",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Current code documentation tooling; service credentials may be required separately.",
-      "commit": null
+      "commit": "eabe36965ec69b2f3487c4eb329c448dd60b817c",
+      "fork_default_branch": "master"
     },
     {
       "number": 20,
       "slug": "brand-guidelines",
       "name": "Brand Guidelines",
       "source": "https://github.com/anthropics/skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/skills",
       "desired_fork_name": "skills",
       "source_subpath": "skills/brand-guidelines",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Source is skills/brand-guidelines in the shared Anthropic skills repository. Installation was reported by the user, not verified by this GitHub collection.",
-      "commit": null
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "fork_default_branch": "main"
     },
     {
       "number": 21,
       "slug": "design-auditor",
       "name": "Design Auditor / Impeccable",
       "source": "https://github.com/pbakaus/impeccable",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/impeccable",
       "desired_fork_name": "impeccable",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Uses Impeccable, as requested.",
-      "commit": null
+      "commit": "7510e233b228864606888d252abacf5e7148bf87",
+      "fork_default_branch": "main"
     },
     {
       "number": 22,
       "slug": "frontend-design",
       "name": "Frontend Design",
       "source": "https://github.com/anthropics/skills",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/skills",
       "desired_fork_name": "skills",
       "source_subpath": "skills/frontend-design",
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Source is skills/frontend-design in the shared Anthropic skills repository.",
-      "commit": null
+      "commit": "ca45fc496a3436251f191354091d557da31c15b5",
+      "fork_default_branch": "main"
     },
     {
       "number": 23,
       "slug": "awesome-design-md",
       "name": "Awesome DESIGN.md",
       "source": "https://github.com/VoltAgent/awesome-design-md",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/awesome-design-md",
       "desired_fork_name": "awesome-design-md",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Design references. Installation was reported by the user, not verified by this GitHub collection.",
-      "commit": null
+      "commit": "fcc70284932276d085f01ef9f83edde90b1258cb",
+      "fork_default_branch": "main"
     },
     {
       "number": 24,
@@ -492,26 +501,28 @@
       "slug": "agent-reach",
       "name": "Agent Reach",
       "source": "https://github.com/Panniantong/Agent-Reach",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/Agent-Reach",
       "desired_fork_name": "Agent-Reach",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Mentioned in the earlier Agent Reach installation chat; source verified against installed package metadata.",
-      "commit": null
+      "commit": "14c213405669414492bda0f8d52cc6531d062c45",
+      "fork_default_branch": "main"
     },
     {
       "number": 38,
       "slug": "skillspector",
       "name": "NVIDIA SkillSpector",
       "source": "https://github.com/NVIDIA/SkillSpector",
-      "fork": null,
+      "fork": "https://github.com/sameeryousaf1111-commits/SkillSpector",
       "desired_fork_name": "SkillSpector",
       "source_subpath": null,
-      "status": "pending_github_fork",
+      "status": "fork_created_verified",
       "notes": "Mentioned in the earlier Claude Code Tools chat; official source repository verified.",
-      "commit": null
+      "commit": "d501c0d5035c2ed6385740a384d942bb05651fda",
+      "fork_default_branch": "main"
     }
   ],
-  "verified_fork_repositories": 19,
-  "pending_fork_repositories": 10
+  "verified_fork_repositories": 29,
+  "pending_fork_repositories": 0
 }

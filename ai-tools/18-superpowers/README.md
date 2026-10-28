@@ -1,11 +1,13 @@
-# 18. Superpowers
+# Superpowers
 
-Status: **pending github fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/obra/superpowers
+Your fork: https://github.com/sameeryousaf1111-commits/superpowers
+
+Upstream: https://github.com/obra/superpowers
+
+Pinned commit: `2ce8aa15d05bd57213e6f746f953aafb7ded7a8b`
 
 Coding-agent workflow and discipline.
 
-Fork pending: GitHub rejected submissions as too quick, followed by browser-control timeouts. This entry does not assert a completed fork.
-
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+Fork creation does not install, authenticate, connect, or deploy this tool.

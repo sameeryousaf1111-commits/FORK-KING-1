@@ -1,9 +1,13 @@
 # Agent Reach
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Verified source: https://github.com/Panniantong/Agent-Reach
+Your fork: https://github.com/sameeryousaf1111-commits/Agent-Reach
+
+Upstream: https://github.com/Panniantong/Agent-Reach
+
+Pinned commit: `14c213405669414492bda0f8d52cc6531d062c45`
 
 Mentioned in the earlier Agent Reach installation chat; source verified against installed package metadata.
 
-GitHub rejected recent fork submissions with 'was submitted too quickly'. This is a queued source repository, not a completed fork. Forking does not install or connect the tool.
+Fork creation does not install, authenticate, connect, or deploy this tool.

@@ -1,18 +1,7 @@
-# Remaining fork queue
+# Fork queue — complete
 
-Ten additional forks completed in the latest run: Ponytail, Agent Skills, Caveman, Task Observer, Graphify, Obsidian Skills, Defuddle, Knap, Claude Mem, and Headroom. Nineteen total fork repositories are verified.
+All 29 identified source repositories have verified forks under sameeryousaf1111-commits. No verified repository remains queued. The automatic retry schedule has been paused because the queue is complete.
 
-GitHub then resumed rejecting fork creation as `was submitted too quickly`. An hourly retry is active in the originating chat to finish the following ten repos, verify each parent, update this collection, and stop when done.
+[Browse the verified forks](forks.md).
 
-- [vercel/vercel](https://github.com/vercel/vercel) — [Create fork](https://github.com/vercel/vercel/fork)
-- [ahujasid/mcp-for-blender](https://github.com/ahujasid/mcp-for-blender) — [Create fork](https://github.com/ahujasid/mcp-for-blender/fork)
-- [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) — [Create fork](https://github.com/Motionsites-AI/claude-skill/fork)
-- [obra/superpowers](https://github.com/obra/superpowers) — [Create fork](https://github.com/obra/superpowers/fork)
-- [upstash/context7](https://github.com/upstash/context7) — [Create fork](https://github.com/upstash/context7/fork)
-- [anthropics/skills](https://github.com/anthropics/skills) — [Create fork](https://github.com/anthropics/skills/fork)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — [Create fork](https://github.com/pbakaus/impeccable/fork)
-- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) — [Create fork](https://github.com/VoltAgent/awesome-design-md/fork)
-- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — [Create fork](https://github.com/Panniantong/Agent-Reach/fork)
-- [NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector) — [Create fork](https://github.com/NVIDIA/SkillSpector/fork)
-
-Clay, NotebookLM, Polsia, and the unidentified fact checker still need verified sources and are outside the automatic retry queue.
+Four entries remain unresolved because no verified source repository was identified: Clay, NotebookLM, Polsia, and the unidentified fact checker. They are not claimed as forked.

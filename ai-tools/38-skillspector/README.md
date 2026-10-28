@@ -1,9 +1,13 @@
 # NVIDIA SkillSpector
 
-Status: **Pending GitHub fork**
+Status: **Fork created and verified**
 
-Verified source: https://github.com/NVIDIA/SkillSpector
+Your fork: https://github.com/sameeryousaf1111-commits/SkillSpector
+
+Upstream: https://github.com/NVIDIA/SkillSpector
+
+Pinned commit: `d501c0d5035c2ed6385740a384d942bb05651fda`
 
 Mentioned in the earlier Claude Code Tools chat; official source repository verified.
 
-GitHub rejected recent fork submissions with 'was submitted too quickly'. This is a queued source repository, not a completed fork. Forking does not install or connect the tool.
+Fork creation does not install, authenticate, connect, or deploy this tool.

@@ -1,11 +1,13 @@
-# 5. Blender MCP
+# Blender MCP
 
-Status: **pending github fork**
+Status: **Fork created and verified**
 
-Source: https://github.com/ahujasid/mcp-for-blender
+Your fork: https://github.com/sameeryousaf1111-commits/mcp-for-blender
+
+Upstream: https://github.com/ahujasid/mcp-for-blender
+
+Pinned commit: `8782963ba87a4c90482198bd7c7e17219ac3a0f7`
 
 Community integration for controlling Blender. This is not the Blender application source and is not affiliated with the Blender Foundation.
 
-Fork pending: GitHub rejected submissions as too quick, followed by browser-control timeouts. This entry does not assert a completed fork.
-
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+Fork creation does not install, authenticate, connect, or deploy this tool.
