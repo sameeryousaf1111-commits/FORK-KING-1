@@ -5,13 +5,15 @@
       "number": 1,
       "slug": "clay",
       "name": "Clay",
-      "source": "https://www.clay.com/",
+      "source": "https://github.com/clay-run/agent-plugins",
       "fork": null,
-      "desired_fork_name": null,
+      "desired_fork_name": "agent-plugins",
       "source_subpath": null,
-      "status": "needs_verified_source",
-      "notes": "Find sales leads. No verified source repository selected; service account connection is separate.",
-      "commit": null
+      "status": "pending_github_fork",
+      "notes": "Official Clay agent plugin repository, linked from Clay's own website. Contains agent skills and CLI integration; this is not the hosted Clay platform source. Fork request was rejected by GitHub as 'was submitted too quickly'.",
+      "commit": null,
+      "service_url": "https://www.clay.com/",
+      "source_verification": "https://www.clay.com/agent-plugin"
     },
     {
       "number": 2,
@@ -72,7 +74,7 @@
       "desired_fork_name": null,
       "source_subpath": null,
       "status": "needs_verified_source",
-      "notes": "Google notebook service. No verified official source repository selected; no third-party replacement forked.",
+      "notes": "No official public source repository verified for the hosted Google notebook service. A community Python client exists at https://github.com/teng-lin/notebooklm-py; awaiting the user's preference before substituting a community project.",
       "commit": null
     },
     {
@@ -144,7 +146,7 @@
       "desired_fork_name": null,
       "source_subpath": null,
       "status": "needs_verified_source",
-      "notes": "No verified official source repository selected. Similarly named repositories were not treated as official.",
+      "notes": "No official public source repository verified for polsia.com. Similarly named repositories were not assumed to be official. A community alternative exists at https://github.com/AI-Builder-Club/open-polsia; awaiting the user's preference before substituting it.",
       "commit": null
     },
     {
@@ -193,8 +195,8 @@
       "fork": null,
       "desired_fork_name": null,
       "source_subpath": null,
-      "status": "needs_verified_source",
-      "notes": "Exact project remains unidentified; source link required.",
+      "status": "excluded_by_user",
+      "notes": "Removed from the requested fork scope at the user's instruction.",
       "commit": null
     },
     {
@@ -524,5 +526,6 @@
     }
   ],
   "verified_fork_repositories": 29,
-  "pending_fork_repositories": 0
+  "pending_fork_repositories": 1,
+  "excluded_entries": 1
 }

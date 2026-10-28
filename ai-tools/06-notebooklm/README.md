@@ -1,9 +1,7 @@
-# 6. NotebookLM
+# NotebookLM
 
-Status: **needs verified source**
+Status: **Official source not verified**
 
-Source: https://notebooklm.google.com/
+No official public source repository verified for the hosted Google notebook service. A community Python client exists at https://github.com/teng-lin/notebooklm-py; awaiting the user's preference before substituting a community project.
 
-Google notebook service. No verified official source repository selected; no third-party replacement forked.
-
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+No community replacement has been forked under this entry.

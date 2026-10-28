@@ -1,9 +1,9 @@
-# 1. Clay
+# Clay
 
-Status: **needs verified source**
+Status: **Official source verified; fork pending**
 
-Source: https://www.clay.com/
+Source: https://github.com/clay-run/agent-plugins
 
-Find sales leads. No verified source repository selected; service account connection is separate.
+Verification: https://www.clay.com/agent-plugin links directly to this repository.
 
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+This is Clay's official agent plugin with skills and CLI integration, not the full hosted Clay platform. GitHub rejected the latest fork submission as `was submitted too quickly`. The repo is queued for automatic retry. Forking does not connect a Clay account.

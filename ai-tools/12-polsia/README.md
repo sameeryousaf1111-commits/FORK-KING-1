@@ -1,9 +1,7 @@
-# 12. Polsia
+# Polsia
 
-Status: **needs verified source**
+Status: **Official source not verified**
 
-Source: https://polsia.com/
+No official public source repository verified for polsia.com. Similarly named repositories were not assumed to be official. A community alternative exists at https://github.com/AI-Builder-Club/open-polsia; awaiting the user's preference before substituting it.
 
-No verified official source repository selected. Similarly named repositories were not treated as official.
-
-This is a source collection; installation, account authentication, MCP configuration, and deployment are separate tasks.
+No community replacement has been forked under this entry.

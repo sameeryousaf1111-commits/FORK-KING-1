@@ -1,23 +1,21 @@
 # FORK KING 1
 
-**All identified repositories are forked: 29 verified GitHub forks, organized under ai-tools/ and linked as pinned source submodules.**
+**29 verified GitHub forks**, organized under ai-tools/ and pinned through source submodules.
 
-- [Browse the 29 forks](ai-tools/forks.md)
-- [Full 38-entry checklist](ai-tools/README.md)
-- [Completed session-tool list](ai-tools/obsidian-session-tools.md)
+- [Browse verified forks](ai-tools/forks.md)
+- [Complete checklist](ai-tools/README.md)
+- [Current fork queue](ai-tools/fork-queue.md)
 
-The 29 source repositories cover 34 checklist entries because several skills share a repository. Defuddle and Knap also have separate tool forks. The retry queue is complete and its automatic schedule is paused.
+## Current work
 
-## Get all verified source code
+Clay's official agent plugin source has now been verified through Clay's website: [clay-run/agent-plugins](https://github.com/clay-run/agent-plugins). Its fork is pending after GitHub rejected the submission as `was submitted too quickly`; hourly retries are being resumed.
+
+NotebookLM and Polsia have no verified official public source repositories in this collection. Community replacements await the user's preference. Fact Checker has been excluded at the user's instruction.
+
+## Get the verified code
 
 ```sh
 git clone --recurse-submodules https://github.com/sameeryousaf1111-commits/FORK-KING-1.git
 ```
 
-GitHub stores each fork as a separate repository in this account. This collection organizes them through Git submodules under ai-tools/sources/. Numbered folders contain source and status information. Upstream code and licenses remain in their respective forks.
-
-## Source links still needed
-
-Clay, NotebookLM, Polsia, and the unidentified fact checker have no verified source repository in this collection and are not claimed as forked.
-
-Forking copies source code. It does not install, authenticate, connect, deploy, or repair a tool.
+The numbered folders track source and status; verified fork code is linked under ai-tools/sources/. Upstream licenses remain in each fork. Forking does not install, authenticate, connect, deploy, or repair a tool.
